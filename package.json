@@ -1,0 +1,23 @@
+{
+  "name": "ucs-diag-utils",
+  "version": "1.0.0",
+  "description": "Diagnostic utilities for the Unity Cache Server (V1)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Unity-Technologies/ucs-diag-utils.git"
+  },
+  "author": "Stephen Palmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Unity-Technologies/ucs-diag-utils/issues"
+  },
+  "homepage": "https://github.com/Unity-Technologies/ucs-diag-utils",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "filesize": "^4.1.2",
+    "fs-extra": "^8.0.1",
+    "unity-cache-server": "^6.4.0-beta3"
+  }
+}
